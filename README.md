@@ -1,24 +1,21 @@
 # README
+これはRailsでAPI開発するときの練習用です。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+環境
+ruby 2.4.1
+Rails 5.0.5
 
-Things you may want to cover:
+## WebアプリケーションのAPI化(APIファースト)
+https://engineer-0518.herokuapp.com/blogs/2
 
-* Ruby version
+## RailsでAPI開発(1)
+https://engineer-0518.herokuapp.com/blogs/3
 
-* System dependencies
+## RailsでAPI開発(2)
+https://engineer-0518.herokuapp.com/blogs/5
 
-* Configuration
+## RailsでAPI開発(3)
+https://engineer-0518.herokuapp.com/blogs/6
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+上記を参考に0から実行していただくとこちらのコードが出来上がります。
+内容に関しては、APIを実装したことがない方や、試しに少しやってみたい方に向いています。
